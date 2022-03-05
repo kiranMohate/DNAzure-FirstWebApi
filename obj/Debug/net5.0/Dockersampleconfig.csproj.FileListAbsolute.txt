@@ -1,0 +1,7 @@
+E:\VisualStudioProjects\Handson7\Dockersampleconfig\obj\Debug\net5.0\Dockersampleconfig.csproj.AssemblyReference.cache
+E:\VisualStudioProjects\Handson7\Dockersampleconfig\obj\Debug\net5.0\Dockersampleconfig.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioProjects\Handson7\Dockersampleconfig\obj\Debug\net5.0\Dockersampleconfig.AssemblyInfoInputs.cache
+E:\VisualStudioProjects\Handson7\Dockersampleconfig\obj\Debug\net5.0\Dockersampleconfig.AssemblyInfo.cs
+E:\VisualStudioProjects\Handson7\Dockersampleconfig\obj\Debug\net5.0\Dockersampleconfig.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjects\Handson7\Dockersampleconfig\obj\Debug\net5.0\Dockersampleconfig.MvcApplicationPartsAssemblyInfo.cs
+E:\VisualStudioProjects\Handson7\Dockersampleconfig\obj\Debug\net5.0\Dockersampleconfig.MvcApplicationPartsAssemblyInfo.cache
