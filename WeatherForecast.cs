@@ -1,3 +1,4 @@
+using System;
 namespace Dockersampleconfig
 {
     public class WeatherForecast
