@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "52c8c826-bc40-48d3-86d5-9cb0b2ba9242": {
+      "ProjectGuid": "52c8c826-bc40-48d3-86d5-9cb0b2ba9242",
+      "DisplayName": "Dockersampleconfig",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cYP80N/cSMp5cwipD4hDE3eh0mreTvdpke2Izc/dSHE=",
+  "Source": "Dockersampleconfig",
+  "BasePath": "_content/Dockersampleconfig",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
